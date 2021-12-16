@@ -1,3 +1,3 @@
-import {main} from './three/hello'
+import hello from './three/hello'
 
-main();
+hello();
